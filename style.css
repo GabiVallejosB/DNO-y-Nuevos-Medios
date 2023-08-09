@@ -1,12 +1,13 @@
 @charset "UTF-8";
+  @import url('https://fonts.googleapis.com/css2?family=ABeeZee&family=Tilt+Warp&display=swap');
 
 * { margin: 0; padding: 0; }
 
 html, body { min-height: 100%; overflow-x: hidden;}
 
 body {
-    font-family: Poppins, Futura, sans-serif;
-    color: #ECECEC;
+    font-family: 'ABeeZee', sans-serif;
+    color: #FFFFFF;
     background: linear-gradient(#E69DFB, #FF689D);
 }
 
