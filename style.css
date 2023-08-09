@@ -5,7 +5,7 @@
 html, body { min-height: 100%; overflow-x: hidden;}
 
 body {
-    font-family: Poppins, Futura light, sans-serif;
+    font-family: Poppins, Futura, sans-serif;
     color: #ECECEC;
     background: linear-gradient(#E69DFB, #FF689D);
 }
